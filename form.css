@@ -1,0 +1,33 @@
+.container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQNfm_xaWQkQSKrQeP4VORVz8ktP8HZdrltdFTEVKASDOtXU3mIkR0r3yV2YxqBPD_hbw&usqp=CAU.jpg");
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+
+ }
+  h2 {
+           margin-bottom: 20px;
+           text-align: center;
+       }
+
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 40px;
+ }
+    body{
+        background-image: url("https://e0.pxfuel.com/wallpapers/431/452/desktop-wallpaper-beach-sunset-high-resolution-cool-sunset.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: table-row-group;
+        justify-content: center;
+        text-align: center;
+    }
+    button{
+        margin: 50px;
+        background-color: green;
+    }
